@@ -42,7 +42,7 @@ sudo nano /etc/pacman.conf
 
 ![04](https://github.com/snigdhalinux/snigdhaos-archiso/assets/148610067/38df5488-38a2-4719-aaef-5275e2bcfc87)
 
-*Figure 4: After Executing "sudo nano /etc/pacman.conf"
+*Figure 4: After Executing "sudo nano /etc/pacman.conf"*
 
 **Step 5:** Append the following 
 ```
