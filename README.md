@@ -1,7 +1,7 @@
 
 # Snigdha OS AUR Repository :: hawkeye
 
-This is the official aur repository for **Snigdha OS**. You can follow the steps to use this repository in your arch linux to download packages using **pacman** and also uninstall using **pacman**. I will share a **pkglist** for this repository later on.
+This is the official aur repository for **Snigdha OS**. You can follow the steps to use this repository in any **arch** based linux distro to download packages using **pacman** and also uninstall using **pacman**. I will share a **pkglist** for this repository later on. If you are using **Snigdha OS**, you need not to do that!
 
 
 
