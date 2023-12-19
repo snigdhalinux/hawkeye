@@ -24,6 +24,7 @@ sudo pacman-key --finger 16D18BF92792DCCF
 ```
 
 ![02](https://github.com/snigdhalinux/snigdhaos-archiso/assets/148610067/acb0edfc-91b1-4fcb-801e-9e8ca247f10f)
+
 *Figure 2: After executing "sudo pacman-key --finger 16D18BF92792DCCF"*
 
 **Step 3:**  Now You are required to locally sign the gpg key.
